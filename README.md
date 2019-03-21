@@ -1,7 +1,7 @@
 # OperationIris
 
 Measuring Impairment in an App, by measuring the rate of change of pupil diameter when a light is shined.
-Code written during Menlohacks IV.
+Code written during Menlohacks IV in less than 24 hours.
 
 ## Theory
 Everyone's eyes constricts when a flashlight is shined at them, in order to allow less right to reach the sensors.
